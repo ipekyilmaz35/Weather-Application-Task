@@ -10,4 +10,4 @@ These steps will help you to clone the project to your computer.
 
 You can use the this command link for cloning the project files to your computer:
 
-git clone  https://github.com/
+git clone  https://github.com/ipekyilmaz35/Weather-Application-Task.git
